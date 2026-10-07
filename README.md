@@ -20,6 +20,22 @@ Full-Stack Developer.
 - REST APIs
 - Backend architecture
 
+## 🚀 Projects
+
+### 🎮 Guess The Number
+
+A JavaScript game practicing DOM manipulation, events, conditions and game logic.
+
+### ✊ Rock Paper Scissors
+
+A JavaScript game practicing functions, random choices, score tracking and game state.
+
+### 🌤️ Weather App
+
+An interactive weather application built with HTML, CSS and JavaScript, featuring city search, location-based weather and theme customization.
+
+
+
 ### 🎯 Goal
 To become a skilled Full-Stack Developer by building real-world
 projects and continuously improving my programming and problem-solving skills.
