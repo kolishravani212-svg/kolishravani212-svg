@@ -1,35 +1,28 @@
-# Hi 👋 I'm Shravani
+## 👋 About Me
 
-💻 JavaScript learner  
-🌱 Currently learning Node.js, Express & MongoDB  
-🎯 Aspiring Backend Developer  
+I'm an aspiring Full-Stack Developer with a strong interest in
+building web applications.
 
-## 🚀 What I'm Learning
+I already have experience with frontend technologies and I'm
+currently focusing on backend development to become a complete
+Full-Stack Developer.
 
+### 💻 Frontend
 - HTML
 - CSS
 - JavaScript
-- Git & GitHub
+- React 
+
+### ⚙️ Currently Learning Backend
 - Node.js
 - Express.js
 - MongoDB
+- REST APIs
+- Backend architecture
 
-## 🛠️ Projects
-
-### 🎮 Guess The Number
-A beginner JavaScript game practicing DOM manipulation, events, conditions and game logic.
-
-### ✊ Rock Paper Scissors
-A JavaScript game practicing functions, random choices, score tracking and game state.
-
-## 📚 Currently Learning
-
-I'm currently building small JavaScript projects while moving toward backend development.
-
-## 🎯 Goal
-
-To become a Backend Developer and build useful applications with Node.js, Express and MongoDB.
-
+### 🎯 Goal
+To become a skilled Full-Stack Developer by building real-world
+projects and continuously improving my programming and problem-solving skills.
 <!--
 **kolishravani212-svg/kolishravani212-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
